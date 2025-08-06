@@ -1,0 +1,1 @@
+print("aman\nrahul\nbhumi\nsumit\nsurbhi")

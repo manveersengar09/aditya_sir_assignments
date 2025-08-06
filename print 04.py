@@ -1,0 +1,5 @@
+print("aman")
+print("rahul")
+print("bhumi")
+print("sumit")
+print("surbhi")

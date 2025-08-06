@@ -1,0 +1,1 @@
+print("aman","rahul","bhumi","sumit","surbhi",sep="\n")
